@@ -1,0 +1,11 @@
+.side{
+    width: 25%;
+    margin-left: 10px;
+}
+.theChat{
+    width: 75%;
+    margin-left: 20px;
+}
+.allUsers{
+    cursor: pointer;
+}
